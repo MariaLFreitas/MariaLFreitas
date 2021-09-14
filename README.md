@@ -1,6 +1,16 @@
-### Hi there 👋
+### Hi I'm Maria Luiza
+:books: Computer engineer student at UTFPR-PB
+:robot: Currently learning AI & Data Science
+:bust_in_silhouette:   Intern at city hall
+:black_nib:CLO at OCCAM Engenharia, junior computer engineering company
+
 
 <!--
+:woman_technologist: Languages
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 **MariaLFreitas/MariaLFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
