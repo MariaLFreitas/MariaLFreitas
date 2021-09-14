@@ -2,7 +2,7 @@
 - :books: Computer engineer student at UTFPR-PB
 - :robot: Currently learning AI & Data Science
 - :bust_in_silhouette:   Intern at city hall
-- :black_nib:CLO at OCCAM Engenharia, junior computer engineering company
+- CLO at OCCAM Engenharia, junior computer engineering company
 
 
 <!--
