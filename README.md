@@ -5,7 +5,7 @@
 - :briefcase: CLO at OCCAM Engenharia, junior computer engineering company
 
 <img src="{https://github-readme-stats.vercel.app/api?username={username&theme=radical}}" />
-
+![image]({https://github-readme-stats.vercel.app/api?username={username&theme=radical}})
 <!--
 :woman_technologist: Languages
 https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
