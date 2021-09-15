@@ -4,7 +4,7 @@
 - :bust_in_silhouette:   Intern at city hall
 - :briefcase: CLO at OCCAM Engenharia, junior computer engineering company
 
-(https://github-readme-stats.vercel.app/api?username={username&theme=radical})
+<img src="{https://github-readme-stats.vercel.app/api?username={username&theme=radical}}" />
 
 <!--
 :woman_technologist: Languages
