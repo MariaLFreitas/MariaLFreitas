@@ -2,7 +2,7 @@
 ### Hi I'm Maria Luiza
 - 📚 Student of Computer Engineering at UTFPR-PB
 - 🤖 Currently learning AI & Data Science
-- 👤 Intern at city hall
+- 👤 Intern at Raízen
 
 ##
 
