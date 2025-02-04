@@ -1,22 +1,9 @@
 
-### Hi I'm Maria Luiza
+### Hi,
 - 📚 Student of Computer Engineering at UTFPR-PB
 - 🤖 Currently learning AI & Data Science
-- 👤 Intern at Raízen
+- 👤 Data Scientist at Raízen
 
-##
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=MariaLFreitas&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=MariaLFreitas&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=MariaLFreitas&show_icons=true" />
-</picture> 
 
 ##
 
@@ -62,4 +49,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+##
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=MariaLFreitas&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=MariaLFreitas&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=MariaLFreitas&show_icons=true" />
+</picture> 
 -->
